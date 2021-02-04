@@ -9,4 +9,9 @@
     <string name="dept">Dept:</string>
     <string name="submit">Submit</string>
     <string name="select">Select</string>
+    <string name="computer_science">Computer Science</string>
+    <string name="software_info_systems">Software Info. Systems</string>
+    <string name="bio_informatics">Bio Informatics</string>
+    <string name="data_science">Data Science</string>
+    <string name="cancel">Cancel</string>
 </resources>
