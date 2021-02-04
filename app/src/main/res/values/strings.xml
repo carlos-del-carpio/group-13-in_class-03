@@ -14,4 +14,13 @@
     <string name="bio_informatics">Bio Informatics</string>
     <string name="data_science">Data Science</string>
     <string name="cancel">Cancel</string>
+    <string name="no_name">Please enter a name</string>
+    <string name="no_email">Please enter an email address</string>
+    <string name="no_id">Please enter an ID</string>
+    <string name="no_department">Please enter a department</string>
+    <string name="select_department">Please select a department</string>
+    <string name="SELECTED_DEPARTMENT">SELECTED_DEPARTMENT</string>
+    <string name="registration">Registration</string>
+    <string name="department">Department</string>
+    <string name="profile">Profile</string>
 </resources>

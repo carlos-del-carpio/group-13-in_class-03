@@ -7,6 +7,7 @@
     tools:context=".Department">
 
     <RadioGroup
+        android:id="@+id/department_radio_button"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
@@ -41,7 +42,7 @@
     </RadioGroup>
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/dept_cancel_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
@@ -51,7 +52,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/dept_select_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="24dp"

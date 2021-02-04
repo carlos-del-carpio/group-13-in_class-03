@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Profile">
+    tools:context=".ProfileActivity2">
 
     <TextView
         android:id="@+id/textView4"
@@ -80,4 +80,5 @@
         app:layout_constraintBottom_toBottomOf="@+id/textView8"
         app:layout_constraintEnd_toEndOf="@+id/final_id"
         app:layout_constraintStart_toStartOf="@+id/final_id" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
