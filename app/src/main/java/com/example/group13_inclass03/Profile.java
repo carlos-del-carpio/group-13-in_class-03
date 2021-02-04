@@ -1,3 +1,8 @@
+/**
+ * Assignment #: HW01
+ * File name: group#13_inclass03
+ * Student: Carlos Del Carpio
+ */
 package com.example.group13_inclass03;
 import java.io.Serializable;
 
